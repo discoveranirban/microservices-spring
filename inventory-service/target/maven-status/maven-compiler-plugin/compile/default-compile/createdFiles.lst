@@ -1,0 +1,5 @@
+com/discoveranirban/inventoryservice/Service/InventoryService.class
+com/discoveranirban/inventoryservice/Repository/InventoryRepository.class
+com/discoveranirban/inventoryservice/Controller/InventoryController.class
+com/discoveranirban/inventoryservice/InventoryServiceApplication.class
+com/discoveranirban/inventoryservice/model/Inventory.class

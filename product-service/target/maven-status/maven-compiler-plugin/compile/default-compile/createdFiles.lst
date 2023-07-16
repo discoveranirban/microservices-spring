@@ -1,0 +1,10 @@
+com/discoveranirban/productservice/service/ProductService.class
+com/discoveranirban/productservice/dto/ProductResponse.class
+com/discoveranirban/productservice/dto/ProductRequest.class
+com/discoveranirban/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/discoveranirban/productservice/model/Product$ProductBuilder.class
+com/discoveranirban/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/discoveranirban/productservice/repository/ProductRepository.class
+com/discoveranirban/productservice/controller/ProductController.class
+com/discoveranirban/productservice/ProductServiceApplication.class
+com/discoveranirban/productservice/model/Product.class
